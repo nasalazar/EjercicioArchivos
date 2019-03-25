@@ -1,0 +1,22 @@
+122,nathaly,salazar*donde niya,2,1300000.0
+1,Andres,Calamaro*Bavaria,1,6.0E7
+2,Briseida,Duarte*Colgate,2,3.0E7
+3,Carlos,Erreño*Domino's pizza,2,200.0
+4,Daniel,Forero*Empanadas del valle,1,130000.0
+5,Fabiola,Gaitan*Fenalco,2,9.3E7
+111111111,natha,salazar*donde niya,2,101010.0
+~1,Andres,Calamaro*Bavaria,1,6.0E7
+~2,Briseida,Duarte*Colgate,2,3.0E7
+~3,Carlos,Erreño*Domino's pizza,2,200.0
+~4,Daniel,Forero*Empanadas del valle,1,130000.0
+~5,Fabiola,Gaitan*Fenalco,2,9.3E7
+~1,Andres,Calamaro*Bavaria,1,6.0E7
+~2,Briseida,Duarte*Colgate,2,3.0E7
+~3,Carlos,Erreño*Domino's pizza,2,200.0
+~4,Daniel,Forero*Empanadas del valle,1,130000.0
+~5,Fabiola,Gaitan*Fenalco,2,9.3E7
+~1,Andres,Calamaro*Bavaria,1,6.0E7
+~2,Briseida,Duarte*Colgate,2,3.0E7
+~3,Carlos,Erreño*Domino's pizza,2,200.0
+~4,Daniel,Forero*Empanadas del valle,1,130000.0
+~5,Fabiola,Gaitan*Fenalco,2,9.3E7
